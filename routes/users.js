@@ -1,4 +1,5 @@
 var express = require('express');
+var router=0
 var router = express.Router();
 
 /* GET users listing. */
